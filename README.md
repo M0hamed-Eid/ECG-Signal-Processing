@@ -9,7 +9,7 @@ This project implements signal processing techniques for analyzing ECG (electroc
 ## Usage
 
 1. Clone or download the repository.
-2. Open MATLAB and run the scripts (`main.m`, `pan_tompkins.m`, etc.) to process and analyze ECG signals.
+2. Open MATLAB and run the scripts (`main.m`, `pan_tompkins.m`) to process and analyze ECG signals.
 
 ## References
 
